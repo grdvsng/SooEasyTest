@@ -18,8 +18,8 @@ test.run(boo, [1, 2], false, 1); // With error, parametrs and expected result
 test.runManyTest(testing)        // Use book with many test
 
 test.printResults();
-
 /*  Results
+
   Function: foo
     Test: 0
     Params: [1]
@@ -146,5 +146,6 @@ test.printResults();
       Message: Expected Result = 12, but true result = 11
     }
   ----------------------------------------
+
 */
 ```
