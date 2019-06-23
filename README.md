@@ -1,5 +1,10 @@
 # SooEasyTest
 ### Fast and easy test for you code.
+
+> Author: Sergy Trishkin
+>
+> mail:   grdvsng@gmail.com
+
 #### Examples:
 
 
