@@ -1,6 +1,9 @@
 # SooEasyTest
 ### Fast and easy test for you code.
 #### Examples:
+
+
+```JavaScript 
 test.run(foo, 1);				     // Without error and 1 parametr
 test.run(boo, [1, 2]);				 // Without error and many parametrs
 test.run(foo, 1, false, 2);			 // Without error, parametr and expected result
@@ -11,8 +14,7 @@ test.runManyTest(testing)            // Use book with many test
 
 test.printResults();
 
-```JavaScript 
-  /* Results
+/*  Results
   Function: foo
     Test: 0
     Params: [1]
