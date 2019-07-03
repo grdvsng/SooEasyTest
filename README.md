@@ -1,5 +1,5 @@
 # SooEasyTest
-### Fast and easy test for you code.
+### Fast and easy test for your code.
 
 > Author: Sergy Trishkin
 >
