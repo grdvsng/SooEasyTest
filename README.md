@@ -9,13 +9,20 @@
 
 
 ```JavaScript 
-test.run(foo, 1);				         // Without error and 1 parametr
-test.run(boo, [1, 2]);			     // Without error and many parametrs
-test.run(foo, 1, false, 2);			 // Without error, parametr and expected result
-test.run(boo, [1, 2], false, 3); // Without error, parametrs and expected result
-test.run(foo, 1, false, 3);			 // With error, parametr and expected result
-test.run(boo, [1, 2], false, 1); // With error, parametrs and expected result
-test.runManyTest(testing)        // Use book with many test
+// Without error and 1 parametr
+test.run(foo, 1);				         
+// Without error and many parametrs
+test.run(boo, [1, 2]);		
+// Without error, parametr and expected result
+test.run(foo, 1, false, 2);			
+// Without error, parametrs and expected result
+test.run(boo, [1, 2], false, 3); 
+// With error, parametr and expected result
+test.run(foo, 1, false, 3);		
+// With error, parametrs and expected result
+test.run(boo, [1, 2], false, 1); 
+// Use book with many test
+test.runManyTest(testing)
 
 test.printResults();
 /*  Results
