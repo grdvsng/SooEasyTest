@@ -138,13 +138,3 @@ function SooEasyTest()
 
 	this.__init__();
 }
-
-function foo(arg)
-{
-	return arg + 1; 
-}
-
-function boo(arg1, arg2)
-{
-	return arg1 + arg2
-}
