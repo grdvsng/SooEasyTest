@@ -1,7 +1,7 @@
 # SooEasyTest
 ### Fast and easy test for your code.
 
-> Author: Sergy Trishkin
+> Author: Sergey Trishkin
 >
 > mail:   grdvsng@gmail.com
 
